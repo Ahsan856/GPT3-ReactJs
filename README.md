@@ -1,15 +1,15 @@
 Modern UI/UX GPT-3
 ![Capture](https://user-images.githubusercontent.com/49562085/157433532-6cf2d319-a28e-4484-9f9b-af851a961932.PNG)
 
+![2](https://user-images.githubusercontent.com/49562085/157433625-30dc4c75-cfc6-4b6e-9fb5-1da958a89dba.PNG)
 
+![3](https://user-images.githubusercontent.com/49562085/157433662-c2dc2ddd-9368-4e1d-9dc5-669d45f75374.PNG)
 
+![4](https://user-images.githubusercontent.com/49562085/157433667-bf4645f1-5983-410a-8bc5-46529d1ed424.PNG)
 
+![5](https://user-images.githubusercontent.com/49562085/157433676-6d6b4571-2f7c-4d65-a4fd-afda0515f9b6.PNG)
 
-
-
-
-
-
+![6](https://user-images.githubusercontent.com/49562085/157433685-d634180f-75a2-4daa-b4e5-192738e85d61.PNG)
 
 
 
