@@ -1,3 +1,18 @@
+Modern UI/UX GPT-3
+![Capture](https://user-images.githubusercontent.com/49562085/157433532-6cf2d319-a28e-4484-9f9b-af851a961932.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
